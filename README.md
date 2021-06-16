@@ -16,6 +16,8 @@ like百分比加右边：like 'XXX%'
 
 小表驱动大表：in/exisits 
 
+等...
+
 ## mysql下载和安装
 ![image](https://user-images.githubusercontent.com/26539681/121656533-29503f80-cad2-11eb-9722-192e7bb10f5a.png)
 ![image](https://user-images.githubusercontent.com/26539681/121657500-083c1e80-cad3-11eb-9f58-7b23a5e67122.png)
