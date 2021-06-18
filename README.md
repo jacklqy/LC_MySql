@@ -54,3 +54,5 @@ like百分比加右边：like 'XXX%'
 
 ## MySQL执行计划的内容是SQL调优时的一个重要依据，我们想要优化SQL语句就必须得先掌握执行计划。
 ![image](https://user-images.githubusercontent.com/26539681/121989239-5badb580-cdce-11eb-8f16-c22db6e21db5.png)
+
+希望为.net开源社区尽绵薄之力，探lu者###一直在探索前进的路上###（QQ:529987528）
